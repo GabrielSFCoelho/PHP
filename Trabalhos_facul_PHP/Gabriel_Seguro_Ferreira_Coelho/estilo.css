@@ -1,0 +1,11 @@
+body{
+	font-family: tahoma;
+	font-size: 14px;
+	color: black;
+	background-color: lightgray;}
+	p{
+		color: blue;}
+		nav ul{
+			list-style: none;
+			margin: 0px;
+	}
